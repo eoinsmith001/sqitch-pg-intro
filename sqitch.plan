@@ -2,3 +2,4 @@
 %project=flipr
 %uri=https://github.com/eoinsmith001/sqitch-pg-intro.git
 
+appschema 2016-06-14T22:01:28Z Eoin Smith <eoinsmith001@gmail.com> # Add schema for flipr objects
